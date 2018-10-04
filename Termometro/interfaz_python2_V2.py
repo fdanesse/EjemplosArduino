@@ -44,10 +44,3 @@ class Ventana(Gtk.Window):
 if __name__=="__main__":
     Ventana()
     Gtk.main()
-
-'''
-Instalar el módulo serial para python:
-    sudo apt-get install python-serial
-o si vas a programar en python 3:
-    sudo apt-get install python3-serial
-'''
