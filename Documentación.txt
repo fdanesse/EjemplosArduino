@@ -1,0 +1,16 @@
+
+
+Temperatura:
+    KY-013 ANALOG TEMPERATURE SENSOR MODULE: https://arduinomodules.info/ky-013-analog-temperature-sensor-module/
+    ARD2-2228 range of Arduino Compatible (Mala calidad): https://www.wiltronics.com.au/product/9229/digital-temperature-sensor/
+
+Buzzer:
+    KY-006 PASSIVE BUZZER MODULE (Multitono): https://arduinomodules.info/ky-006-passive-buzzer-module/
+    KY-012 ACTIVE BUZZER MODULE: https://arduinomodules.info/ky-012-active-buzzer-module/
+
+Micrófonos:
+    KY-037 Microphone sensor module (3.3v) (Mala calidad): http://sensorkit.en.joy-it.net/index.php?title=KY-037_Microphone_sensor_module_(high_sensitivity)
+    KY-038 microphone sound sensor (3.3v) (Mala calidad): http://sensorkit.en.joy-it.net/index.php?title=KY-038_Microphone_sound_sensor_module
+
+Luz:
+    KY-018 PHOTORESISTOR MODULE: https://arduinomodules.info/ky-018-photoresistor-module/
