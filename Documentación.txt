@@ -3,6 +3,7 @@
 Temperatura:
     KY-013 ANALOG TEMPERATURE SENSOR MODULE: https://arduinomodules.info/ky-013-analog-temperature-sensor-module/
     ARD2-2228 range of Arduino Compatible (Mala calidad): https://www.wiltronics.com.au/product/9229/digital-temperature-sensor/
+    KY-015 TEMPERATURE AND HUMIDITY SENSOR MODULE (No logré que funcionara): https://arduinomodules.info/ky-015-temperature-humidity-sensor-module/
 
 Buzzer:
     KY-006 PASSIVE BUZZER MODULE (Multitono): https://arduinomodules.info/ky-006-passive-buzzer-module/
