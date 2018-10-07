@@ -15,3 +15,5 @@ Micrófonos:
 
 Luz:
     KY-018 PHOTORESISTOR MODULE: https://arduinomodules.info/ky-018-photoresistor-module/
+    KY-016 RGB FULL COLOR LED MODULE: https://arduinomodules.info/ky-016-rgb-full-color-led-module/
+    KY-008 LASER TRANSMITTER MODULE: https://arduinomodules.info/ky-008-laser-transmitter-module/
