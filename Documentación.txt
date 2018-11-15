@@ -1,6 +1,9 @@
-
+Micro Controladores:
+    xxx     Beetle BLE Modelo  DEV_0914: http://tdrobotica.co/beetle-ble/914.html
+    xxx     Romeo BLE mini Modelo  DEV_0913: http://tdrobotica.co/romeo-ble-mini/913.html
 
 Temperatura:
+    xxx     LM35: https://www.alldatasheet.com/view.jsp?Searchword=Lm35&gclid=CjwKCAjwsfreBRB9EiwAikSUHQlUxL8N8Q4SI_aRCkpXMMTFeUIAdfcnN5k6boFP7NRZWxnrhTbxahoCIf4QAvD_BwE
             KY-013 ANALOG TEMPERATURE SENSOR MODULE: https://arduinomodules.info/ky-013-analog-temperature-sensor-module/
             ARD2-2228 range of Arduino Compatible (Mala calidad): https://www.wiltronics.com.au/product/9229/digital-temperature-sensor/
     
@@ -16,42 +19,95 @@ Micrófonos:
             KY-038 microphone sound sensor (3.3v) (Mala calidad): http://sensorkit.en.joy-it.net/index.php?title=KY-038_Microphone_sound_sensor_module
     
     xxx     HC-SR04 Ultrasonic Sensor: https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/
+    xxx     Sensor de proximidad por ultrasonidos LV-EZ3: https://tienda.bricogeek.com/sensores-distancia/40-sensor-de-proximidad-por-ultrasonidos-lv-ez3.html
+    SSS     DETECTOR DE MOVIMIENTO PIR: https://www.luisllamas.es/detector-de-movimiento-con-arduino-y-sensor-pir/
+    SSS     Ultrasonic Sensor XM120: http://rambal.com/ir-distancia-tacto/245-ultrasonic-sensor-xm120-rebaja-temporal-.html
+    xxx     Analog Sound Sensor SKU: DFR0034: https://www.dfrobot.com/wiki/index.php/Analog_Sound_Sensor_SKU:_DFR0034
 
 Luz:
             KY-018 PHOTORESISTOR MODULE: https://arduinomodules.info/ky-018-photoresistor-module/
-            KY-016 RGB FULL COLOR LED MODULE: https://arduinomodules.info/ky-016-rgb-full-color-led-module/
             KY-008 LASER TRANSMITTER MODULE: https://arduinomodules.info/ky-008-laser-transmitter-module/
     xxx     KY-008 Laser x Laser Detector: https://www.elabpeers.com/laser-detector.html
-
     ***     KY-032 Obstacle avoidance sensor module: http://sensorkit.en.joy-it.net/index.php?title=KY-032_Obstacle-detect_module
-    ***     KY-005 INFRARED TRANSMITTER MODULE: https://arduinomodules.info/ky-005-infrared-transmitter-sensor-module/
-    ***     KY-022 INFRARED RECEIVER MODULE: https://arduinomodules.info/ky-022-infrared-receiver-module/
-    ***     KY-010 PHOTO INTERRUPTER MODULE: https://arduinomodules.info/ky-010-photo-interrupter-module/
+    SSS     TCS3200 V.3 Sensor Color: http://rambal.com/color-luz-forma/728-tcs3200-v3-sensor-color.html
+    SSS     UVM-30A sensor UV: https://polaridad.es/sensor-radiacion-ultravioleta-arduino-indice-uv-uvm30a-guva-s12sd/
+
+Leds:
+            KY-016 RGB FULL COLOR LED MODULE: https://arduinomodules.info/ky-016-rgb-full-color-led-module/
     ***     KY-011 TWO COLOR LED MODULE: https://arduinomodules.info/ky-011-two-color-led-module-3mm/
-    ***     KY-009 RGB FULL COLOR LED SMD MODULE: https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/
+    ***     KY-009 RGB FULL COLOR LED SMD MODULE: https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/ (Necesita una resistencia)
     ***     KY-029 Yin Yi 2-color LED module: https://tkkrlab.nl/wiki/Arduino_KY-029_Yin_Yi_2-color_LED_module_3MM
     ***     KY-034 7 Colour LED flash-module: http://sensorkit.en.joy-it.net/index.php?title=KY-034_7_Colour_LED_flash-module
+    ***     SMD RGB WS2812: https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
+
+Infrarojos:
+    ***     KY-005 INFRARED TRANSMITTER MODULE: https://arduinomodules.info/ky-005-infrared-transmitter-sensor-module/
+    ***     KY-010 INFRARED PHOTO INTERRUPTER MODULE: https://arduinomodules.info/ky-010-photo-interrupter-module/
+    ***     KY-033 Sensor de línea: http://sensorkit.en.joy-it.net/index.php?title=KY-033_Tracking_sensor_module
+    xxx     Digital Infrared motion sensor (SKU:SEN0018): https://www.dfrobot.com/wiki/index.php/Digital_Infrared_motion_sensor_(SKU:SEN0018)
 
 Magnetismo:
     ***     KY-003 HALL MAGNETIC SENSOR MODULE: https://arduinomodules.info/ky-003-hall-magnetic-sensor-module/
     ***     KY-021 MINI MAGNETIC REED SWITCH MODULE: https://arduinomodules.info/ky-021-mini-magnetic-reed-switch-module/
     ***     KY-024 LINEAR MAGNETIC HALL MODULE: https://arduinomodules.info/ky-024-linear-magnetic-hall-module/
+    ***     KY-035 LINEAR MAGNETIC HALL MODULE:
+
+Orientación:
+    ***     KY-017 MERCURY TILT SWITCH MODULE: https://arduinomodules.info/ky-017-mercury-switch-module/
+    ***     KY-027 MERCURY TILT SWITCH MODULE:
+
+Bibración:
+    xxx     KY-002 VIBRATION SWITCH MODULE: https://arduinomodules.info/ky-002-vibration-switch-module/
+
+Motores:    https://learn.adafruit.com/adafruit-motor-selection-guide
+    xxx     Adafruit Motor Shield: https://programarfacil.com/blog/arduino-blog/adafruit-motor-shield-arduino/
+    xxx     MG90S Servo motor metalico: https://www.luisllamas.es/controlar-un-servo-con-arduino/
+    xxx     MG996R Servo motor metalico: https://www.luisllamas.es/controlar-un-servo-con-arduino/
+    xxx     L298N Controlador Motor:
+    xxx     Motor 28BYJ-48 - Controlador ULN2003
+    xxx     NEMA 17 - Controlador A4988
+
+Comunicación:
+    ***     KY-022 INFRARED RECEIVER MODULE: https://arduinomodules.info/ky-022-infrared-receiver-module/
+    xxx     ESP8266 Wifi: https://programarfacil.com/podcast/esp8266-wifi-coste-arduino/
+    xxx     RFID RC522 RadioFrecuencia: https://naylampmechatronics.com/blog/22_Tutorial-Lector-RFID-RC522.html
+    xxx     HC05 Bluetooth: http://www.eneka.com.uy/robotica/modulos-comunicacion/m%C3%B3dulo-bluetooth-hc05-detail.html
+
+Shields:
+    xxx     Shield - Dynamixel AX  MOT_0534: (hasta 200 servos AX-12) http://tdrobotica.co/shield-dynamixel-ax/534.html
+    xxx     Shield - Arduino 4 Relés Modelo  DEV_0645: http://tdrobotica.co/shield-arduino-4-reles/645.html
+    xxx     robotShield Modelo  DEV_0490: http://tdrobotica.co/tdrobotica-robotshield/213.html
+    xxx     shield de expansión arduino UNO y Nano 3.0 Modelo  DEV_1160: http://tdrobotica.co/shield-de-expansion-arduino-uno-y-nano-30/1160.html
+    xxx     Shield - PWM para arduino Modelo  DEV_0554: http://tdrobotica.co/shield-pwm-para-arduino/16.html
+    xxx     HAT - Arduino Shield Modelo  DEV_0535: http://tdrobotica.co/hat-arduino-shield/535.html
+
+kits robóticos educativos:
+    xxx     Makeblock - mBot Azul Modelo  ROB_1189: http://tdrobotica.co/makeblock-mbot-azul/1189.html
 
 Otros:
+    ***     KY-040 Keyes Encoder Rotativo: https://www.microjpm.com/products/encoder-giratorio-ky-040/ - http://eeshop.unl.edu/pdf/KEYES%20Rotary%20encoder%20module%20KY-040.pdf
             KY-039 Detect the heartbeat module: https://tkkrlab.nl/wiki/Arduino_KY-039_Detect_the_heartbeat_module
             KY-004 KEY SWITCH MODULE: https://arduinomodules.info/ky-004-key-switch-module/
     ***     KY-019 5V RELAY MODULE: https://arduinomodules.info/ky-019-5v-relay-module/
     ***     KY-023 DUAL AXIS JOYSTICK MODULE: https://arduinomodules.info/ky-023-joystick-dual-axis-module/
     ***     KY-020 TILT SWITCH MODULE: https://arduinomodules.info/ky-020-tilt-switch-module/
-    ***     KY-017 MERCURY TILT SWITCH MODULE: https://arduinomodules.info/ky-017-mercury-switch-module/
-    ***     KY-002 VIBRATION SWITCH MODULE: https://arduinomodules.info/ky-002-vibration-switch-module/
     ***     KY-031 Knock-sensor module: http://sensorkit.en.joy-it.net/index.php?title=KY-031_Knock-sensor_module
-
-Motores:
-    xxx     MG90S Servo motor metalico: https://www.luisllamas.es/controlar-un-servo-con-arduino/
-    xxx     MG996R Servo motor metalico: https://www.luisllamas.es/controlar-un-servo-con-arduino/
-
+    xxx     Mando inalámbrico Arduino: https://tienda.bricogeek.com/accesorios-robotica/568-mando-inalambrico-arduino.html
+    xxx     Pinza robótica grande: https://tienda.bricogeek.com/accesorios-robotica/563-pinza-robotica-grande.html
+    xxx     Placa Reloj RTC DS1307: https://tienda.bricogeek.com/componentes/56-placa-reloj-rtc-ds1307.html
+    xxx     Data Logging y Reloj Shield -2: Data Logging y Reloj Shield -2
+    SSS     Altimetro Barometro BMP180: http://rambal.com/presion-peso-nivel-flex/191-altimetro-barometro-bmp180.html
+    xxx     Triple Axis Accelerometer MMA7361 (SKU: DFR0143): https://www.dfrobot.com/wiki/index.php/Triple_Axis_Accelerometer_MMA7361_(SKU:_DFR0143)
+    xxx     Gravity: Sensor de turbiedad análogo Modelo  SEN_0911: http://tdrobotica.co/gravity-sensor-de-turbiedad-analogo/911.html
+    xxx     Gravity: Sensor de posición análogo Modelo  SEN_0918: http://tdrobotica.co/gravity-sensor-de-posicion-analogo/918.html
+    xxx     Gravity: Sensor análogo pH Modelo  SEN_0915: http://tdrobotica.co/gravity-sensor-analogo-ph/915.html
 
 *** = Sin probar
 ??? = No logré que funcionara
 xxx = No lo tengo
+SSS = Sensores de calidad industrial
+
+Raspberry:
+    xxx     Combo Raspberry Pi 3 B+ Esencial Modelo  DEV_0482: http://tdrobotica.co/combo-raspberry-pi-3-b-b-esencial/482.html
+    xxx     Cámara NoIr para Raspberry Pi (Compatible con Raspberry Pi 2 y B+) Modelo  DEV_0692: http://tdrobotica.co/camara-noir-para-raspberry-pi-compatible-con-raspberry-pi-2-y-b/376.html
+    xxx     Raspberry Pi LCD - 7" Touchscreen Modelo  DEV_0640: http://tdrobotica.co/raspberry-pi-lcd-7-touchscreen/640.html
