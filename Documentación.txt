@@ -64,7 +64,7 @@ Motores:    https://learn.adafruit.com/adafruit-motor-selection-guide
     xxx     MG90S Servo motor metalico: https://www.luisllamas.es/controlar-un-servo-con-arduino/
     xxx     MG996R Servo motor metalico: https://www.luisllamas.es/controlar-un-servo-con-arduino/
     xxx     L298N Controlador Motor:
-    xxx     Motor 28BYJ-48 - Controlador ULN2003
+            Motor Paso a Paso 28BYJ-48 Reducción de 1/64 - Controlador ULN2003: https://www.prometec.net/motor-28byj-48/
     xxx     NEMA 17 - Controlador A4988
 
 Comunicación:
@@ -101,7 +101,8 @@ Otros:
     xxx     Gravity: Sensor de turbiedad análogo Modelo  SEN_0911: http://tdrobotica.co/gravity-sensor-de-turbiedad-analogo/911.html
     xxx     Gravity: Sensor de posición análogo Modelo  SEN_0918: http://tdrobotica.co/gravity-sensor-de-posicion-analogo/918.html
     xxx     Gravity: Sensor análogo pH Modelo  SEN_0915: http://tdrobotica.co/gravity-sensor-analogo-ph/915.html
-
+    xxx     DS3231 Real Time Clock: https://howtomechatronics.com/tutorials/arduino/arduino-ds3231-real-time-clock-tutorial/
+    
 *** = Sin probar
 ??? = No logré que funcionara
 xxx = No lo tengo
